@@ -1,0 +1,36 @@
+Study Leveling - Public Repository Notice
+
+This repository is the public information and release page for Study Leveling.
+
+Study Leveling is prepared for:
+- Web
+- Android
+- iOS
+- Linux
+- macOS
+- Windows
+
+This repository may include:
+- README.md
+- LICENSE
+- NOTICE.txt
+- Privacy Policy
+- Terms
+- Screenshots
+- Release notes
+- Public app download files
+
+It must not include:
+- Full Flutter source code
+- Firebase private files
+- serviceAccountKey.json
+- .env files
+- keystore files
+- local user data
+- private database files
+- build secrets
+- private development configuration
+
+The full source code is private.
+
+Copyright (c) 2026 Md Junayet. All rights reserved.
