@@ -220,23 +220,23 @@ Study Leveling is prepared for all major platforms:
 
 ### Main Menu
 
-![Main Menu](screenshots/main-menu.jpg)
+![Main Menu](Screenshots/main-menu.jpg)
 
 ### Study Tasks
 
-![Study Tasks](screenshots/study-tasks.jpg)
+![Study Tasks](Screenshots/study-tasks.jpg)
 
 ### Rewards Shop
 
-![Rewards Shop](screenshots/rewards-shop.jpg)
+![Rewards Shop](Screenshots/rewards-shop.jpg)
 
 ### Global Leaderboard
 
-![Global Leaderboard](screenshots/global-leaderboard.jpg)
+![Global Leaderboard](Screenshots/global-leaderboard.jpg)
 
 ### Multiplayer Room
 
-![Multiplayer Room](screenshots/multiplayer-room.jpg)
+![Multiplayer Room](Screenshots/multiplayer-room.jpg)
 
 ---
 
