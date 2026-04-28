@@ -16,12 +16,6 @@ Firebase Hosting:
 https://study-leveling.web.app
 ```
 
-GitHub Pages:
-
-```text
-https://mdjunayet10.github.io/Study-Leveling-App/
-```
-
 ---
 
 ## Platform Support
