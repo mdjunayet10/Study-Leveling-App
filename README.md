@@ -218,25 +218,39 @@ Study Leveling is prepared for all major platforms:
 
 ## Screenshots
 
-### Main Menu
-
-![Main Menu](Screenshots/main-menu.jpg)
-
-### Study Tasks
-
-![Study Tasks](Screenshots/study-tasks.jpg)
-
-### Rewards Shop
-
-![Rewards Shop](Screenshots/rewards-shop.jpg)
-
-### Global Leaderboard
-
-![Global Leaderboard](Screenshots/global-leaderboard.jpg)
-
-### Multiplayer Room
-
-![Multiplayer Room](Screenshots/multiplayer-room.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/main-menu.jpg" alt="Main Menu" width="360" />
+      <br />
+      <strong>Main Menu</strong>
+    </td>
+    <td align="center">
+      <img src="Screenshots/study-tasks.jpg" alt="Study Tasks" width="360" />
+      <br />
+      <strong>Study Tasks</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/rewards-shop.jpg" alt="Rewards Shop" width="360" />
+      <br />
+      <strong>Rewards Shop</strong>
+    </td>
+    <td align="center">
+      <img src="Screenshots/global-leaderboard.jpg" alt="Global Leaderboard" width="360" />
+      <br />
+      <strong>Global Leaderboard</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="Screenshots/multiplayer-room.jpg" alt="Multiplayer Room" width="360" />
+      <br />
+      <strong>Multiplayer Room</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
